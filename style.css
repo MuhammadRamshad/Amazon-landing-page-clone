@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  font-family: Arial;
+  border: border-box;
+}
+body {
+  background-color: #e5e9e9;
+  position: relative;
+}
